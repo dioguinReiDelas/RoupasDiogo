@@ -56,3 +56,14 @@ display: inline-block;
 margin: 50px;
 padding: 4px 4px;
 }
+
+footer{
+text-align: center;
+background: url("padrão.jpg");
+padding: 15px 0px;
+}
+
+.Copyright {
+color: white;
+font-size: 13px;
+}
