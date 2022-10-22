@@ -1,0 +1,79 @@
+header{
+background-color: #ffefd3;
+padding: 20px 0;
+}
+
+.caixa{
+  position: relative;
+  width: 900px;
+  margin: 90px;
+}
+
+nav{
+  position: absolute;
+top: -126px;
+right: -678px;
+}
+
+nav li{
+display: inline-block;
+margin: 0 0 0 30px;
+}
+
+nav a{
+  text-transform: uppercase;
+  text-decoration: none;
+  font-weight: bold;
+  font-size: 30px;
+  color: black
+}
+
+nav a:hover{
+  color: #9ACD32;
+  text-decoration: underline;
+}
+
+.gmail img{
+position: absolute;
+left: 460px;
+top: 340px;
+}
+
+.gmail{
+font-weight: bold;
+width: 900px;
+font-size: 24px;
+margin: 30px;
+margin-top: 70px;
+margin-bottom: 70px
+}
+
+.gmail h1{
+  font-weight: bolder;
+  font-size: 26px;
+}
+
+.gmail a{
+  text-decoration: none;
+}
+
+.gmail a:hover{
+    color: #9ACD32;
+    text-decoration: underline;
+}
+
+.gmail a:active{
+    color: #DAA520;
+    text-decoration: underline;
+}
+
+footer{
+text-align: center;
+background: url("padrão.jpg");
+padding: 15px 0px;
+}
+
+.Copyright {
+color: white;
+font-size: 13px;
+}
